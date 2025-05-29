@@ -9,5 +9,5 @@ checkTargetServerStatusAndNotify
 この関数を指定して下さい
 # ⚠️注意⚠️
 ConnectはFastserverおよびZSHAREのサービスでありRiRi.Inc,CorpはFastserverまてゃConnectの権利等を一切所有または関係がありません。
-©️ FastServer,Connect：ZSHARE
-©️ このソースコード：RiRi.Inc,Corp
+### ©️ FastServer,Connect：ZSHARE
+### ©️ このソースコード：RiRi.Inc,Corp
