@@ -5,3 +5,5 @@ Connectが切断または接続されるたびにウェブフックを使ってD
 Google Apps Scriptを作成します（スプレットシートの拡張機能などから）
 ・トリガーの設定
 トリガーを設定して定期的な実行ができます。
+checkTargetServerStatusAndNotify
+この関数を指定して下さい
