@@ -1,81 +1,62 @@
+🎓 RiRi.Incart,Corping (formerly RiRi.Corp / RiRi.Inc)
+Software License Agreement — RPULO1
+Issued on: [2025/05/29]
+Bundled contents:[Connect-Check-Discord(CCDv1)]
+Note: The company name has been updated from RiRi.Inc / RiRi.Corp to RiRi.Incart,Corping (abbreviated: RiRi.Inc,Corp)
 
+Article 1: Agreement to the License
+By “using” this software (including but not limited to extraction, execution, installation, or downloading), you are deemed to have accepted this license agreement.
 
-# 🎓 RiRi.Incart,Corping (formerly RiRi.Inc, hereinafter referred to as “RiRi.Inc” or “RiRi.Corp”)
+Article 2: Scope of Application
+This license applies only to products officially provided by RiRi.Incart,Corping (formerly RiRi.Corp / RiRi.Inc) (hereinafter referred to as "the Company").
+It does not apply to unofficial or imitation products.
 
-## Software License Agreement RPULO1
+Article 3: Disclaimer
+The Company shall bear no responsibility for any damages or malfunctions arising from the use of this software.
 
-**Included on:** 2025/05/29
-**Content:** Connect check discord
+Similarly, the Company shall not be liable for damages resulting from the use of counterfeit or unofficial products.
 
----
+Use this software entirely at your own risk.
 
-### Article 1: Agreement to the License
+Article 4: Open Source Conditions
+This software is open source. Anyone may freely "use," "modify," "redistribute," and "publish" it under the following conditions:
 
-By "using" this software (including but not limited to extracting, executing, installing, or downloading), you are deemed to have agreed to the terms of this license.
+✅ Permitted Actions
 
----
+Free usage, modification, redistribution, and publication
 
-### Article 2: Scope of Application
+UI imitation (such as layout or user experience) is not restricted
 
-This license applies only to products officially provided by RiRi. (formerly RiRi.Inc) (hereinafter referred to as “the Company”).
-It does **not** apply to unofficial or imitation products.
+❌ Prohibited Actions
 
----
+Modifications or uses that violate any domestic or international law
 
-### Article 3: Disclaimer
+Use of names, appearances, or logos that may be mistaken for official Company products
 
-1. The Company shall not be held responsible for any damage or malfunction caused by the use of this software.
-2. The Company shall also not be liable for damages caused by the use of counterfeit or unofficial products.
-3. All use of this software is at your own risk.
+Uses that may harm the Company’s reputation
 
----
+Article 5: Credit and Logo Usage
+When modifying or redistributing the software, you must clearly state the following credit:
 
-### Article 4: Open Source Conditions
+"This program was created by modifying an open-source product from RiRi.Corp (formerly RiRi.Inc)."
 
-This software is open source. Anyone may freely “use,” “modify,” “redistribute,” and “publish” it under the following conditions:
+Do not use the Company’s logo without permission.
 
-✅ **Permitted Actions**
+❌ Not Allowed: [OpenUtility logo] + Alpha (may cause confusion with the official version)
+✅ Allowed: [OpenUtility logo] Modified Version (as long as there’s no misrepresentation)
 
-* Free use, modification, redistribution, and publication
-* Mimicking of UI (screen layout and user experience) is not restricted
+Article 6: Handling of Modified Versions
+Any modified version of the software (hereinafter referred to as “Modified Version”) must include this license without alteration.
 
-❌ **Prohibited Actions**
+Ownership of the Modified Version is transferred to the modifier, but this license remains in effect (excluding Article 2).
 
-* Modifications or usage that violate domestic or international law
-* Use of names, appearances, or logos that may cause confusion with official products
-* Any usage that harms the reputation of the Company
+Article 7: Streaming and Content Creation
+You are free to use, stream, or present this software—including modified versions—on platforms such as YouTube, including monetization.
 
----
+Modified versions may only be distributed free of charge; paid sales are not permitted.
 
-### Article 5: Credit and Logo Usage
+Modified versions are also treated as open source and may be further modified and redistributed.
 
-* When modifying or redistributing this software, you must clearly include the following credit:
+The Company does not offer support for modified versions.
 
-  > "This program was created by modifying an open-source product from RiRi.Corp (formerly RiRi.Inc)."
-* Do **not** use the Company’s logo without permission.
-
-❌ **Example NOT Allowed:** `[OpenUtility logo] + Alpha` (may imply official association)
-✅ **Example Allowed:** `[OpenUtility logo] Modified Version` (as long as no confusion occurs)
-
----
-
-### Article 6: Handling of Modified Versions
-
-* Any modified version of the software (hereinafter referred to as a “modified version”) must include this license without any changes.
-* Ownership of the modified version is transferred to the modifier; however, the license remains in effect (excluding Article 2).
-
----
-
-### Article 7: Streaming and Video Content
-
-* You are free to use, stream, and present this software (including modified versions) on platforms such as YouTube, including for monetized content.
-* Modified versions must be distributed **free of charge** only; commercial sales are **not permitted**.
-* Modified versions are treated as open source and may be further modified or redistributed.
-* The Company does **not provide support** for modified versions.
-
----
-
-> ⚠️ This license must not be modified or rewritten under any circumstances.
-
----
-
+⚠️ This license may not be modified or rewritten under any circumstances.
