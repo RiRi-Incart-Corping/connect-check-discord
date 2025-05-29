@@ -1,0 +1,2 @@
+# connect-check-discord
+Connectが切断または接続されるたびにウェブフックを使ってDiscordにメッセージを送信できます
