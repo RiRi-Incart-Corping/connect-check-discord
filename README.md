@@ -1,2 +1,3 @@
 # connect-check-discord
 Connectが切断または接続されるたびにウェブフックを使ってDiscordにメッセージを送信できます
+このプログラムはRiRi Incart Corpingのオープンソースです。詳しくはLICENSE.txtをご確認下さい。
